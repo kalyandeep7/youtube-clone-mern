@@ -138,4 +138,6 @@ Channel Page
 
 Submission Details
 - GitHub Repository: https://github.com/kalyandeep7/youtube-clone-mern
-- Video Demo: [Add your demo link here]
+
+
+- Video Demo: https://www.loom.com/share/c68f82fb735f4f5c95938ff5da871cc3
