@@ -141,3 +141,5 @@ Submission Details
 
 
 - Video Demo: https://www.loom.com/share/c68f82fb735f4f5c95938ff5da871cc3
+
+MongoDB Atlas cluster URL - mongodb+srv://admin:cVPmrUdLDIk0EJZx@cluster0.bzuoxgz.mongodb.net/youtube-clone?retryWrites=true&w=majority
